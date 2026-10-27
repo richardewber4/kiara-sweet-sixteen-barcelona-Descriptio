@@ -120,3 +120,13 @@ main{width:100%;max-width:100%;margin:0}
 .hotel-row img{width:100%;height:120px;object-fit:cover}
 .bottom-nav{width:100%;left:0;right:0;grid-template-columns:repeat(5,minmax(0,1fr))}
 @media(max-width:390px){.travel-grid{grid-template-columns:1fr}.hotel-row{grid-template-columns:.8fr 1fr}.hotel-row img{height:120px}}
+
+
+/* Hero crop correction for the narrow mobile viewport */
+@media(max-width:760px){
+ .hero{min-height:390px;height:clamp(390px,108vw,560px);padding:24px 4% 20px}
+ .hero-photo-wrap{inset:0!important;height:100%!important;overflow:hidden}
+ .hero-photo{width:100%!important;height:100%!important;object-fit:cover!important;object-position:50% 8%!important}
+ .hero:before{background:linear-gradient(90deg,rgba(249,240,225,.96) 0%,rgba(249,240,225,.84) 35%,rgba(249,240,225,.34) 58%,rgba(249,240,225,.04) 83%)}
+ .hero-copy{width:55%;max-width:460px}
+}
