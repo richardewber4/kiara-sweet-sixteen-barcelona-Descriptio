@@ -80,3 +80,18 @@ body{background:#f7efe2}
  .activity-tile img{height:85px}
  .travel-grid{grid-template-columns:1fr}
 }
+
+
+/* Final reference-aligned polish and personal memory strip */
+.hero-photo{object-position:62% 38%}
+.hero-copy{max-width:460px}
+.hero:before{background:linear-gradient(90deg,rgba(249,240,225,.98) 0%,rgba(249,240,225,.91) 35%,rgba(249,240,225,.22) 62%,rgba(249,240,225,0) 82%)}
+.personal-photo-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:18px 0 4px}
+.personal-photo-strip img{width:100%;height:145px;object-fit:cover;object-position:center;border-radius:10px;border:1px solid #d8cbb9;display:block}
+.hotel-row img{object-position:center 55%}
+@media(max-width:760px){
+ .hero-photo{object-position:63% center}
+ .personal-photo-strip{gap:6px;margin-top:12px}
+ .personal-photo-strip img{height:94px;border-radius:7px}
+}
+@media(max-width:390px){.personal-photo-strip img{height:74px}}
