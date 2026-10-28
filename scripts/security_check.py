@@ -11,6 +11,9 @@ from html.parser import HTMLParser
 SOURCES = [
     ("TMB service notices", "https://www.tmb.cat/en/barcelona-transport/service-notices", True),
     ("AMB mobility notices", "https://www.ambmobilitat.cat/", True),
+    ("AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct", "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416", True),
+    ("AMB verified diversion: Plaça Drassanes, 28 Oct", "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415", True),
+    ("Generalitat verified train strike notice, 29 Oct", "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre", True),
     ("Rodalies de Catalunya", "https://rodalies.gencat.cat/en/inici/index.html", True),
     ("Generalitat de Catalunya news", "https://web.gencat.cat/en/actualitat/", True),
     ("Barcelona city news", "https://www.barcelona.cat/infobarcelona/en/", True),
