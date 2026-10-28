@@ -1,0 +1,42 @@
+name: Barcelona Security Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 3 hours at :20 UTC, avoiding the top-of-hour traffic.
+    - cron: "20 1,4,7,10,13,16,19,22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: barcelona-security-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check official sources and generate status
+        run: python scripts/security_check.py
+
+      - name: Publish status file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add security-status.json
+          if git diff --cached --quiet; then
+            echo "Security status unchanged."
+          else
+            git commit -m "Refresh Barcelona security status"
+            git push
+          fi
