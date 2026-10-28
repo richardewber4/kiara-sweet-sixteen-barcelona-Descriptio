@@ -147,3 +147,11 @@ main{width:100%;max-width:100%;margin:0}
 .bottom-nav{grid-template-columns:repeat(6,minmax(0,1fr))}
 .nav-link{font-size:.64rem}
 @media(max-width:390px){.nav-link{font-size:.54rem}.nav-icon{font-size:1.1rem}}
+
+
+/* Activity guides: What it is, why it matters, and local knowledge */
+.activity-details{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:16px;margin:24px 0 8px}
+.activity-detail{background:var(--paper,#fffaf0);border:1px solid rgba(23,60,50,.14);border-radius:14px;padding:20px}
+.activity-detail h3{font-family:'Cormorant Garamond',serif;font-size:1.55rem;line-height:1.1;margin:0 0 16px;color:var(--burgundy,#642d3b)}
+.activity-detail h4{font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;margin:14px 0 5px;color:var(--green,#173c32)}
+.activity-detail p{margin:0;line-height:1.55;font-size:.93rem}
