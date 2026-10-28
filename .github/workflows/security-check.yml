@@ -7,7 +7,7 @@ on:
     - cron: "20 1,4,7,10,13,16,19,22 * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -32,6 +32,18 @@ jobs:
 
       - name: Check official sources and generate status
         run: python scripts/security_check.py
+
+      - name: Publish fresh status JSON to main branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add security-status.json
+          if git diff --cached --quiet; then
+            echo "Security status unchanged; no commit needed."
+          else
+            git commit -m "Refresh automated Barcelona security status"
+            git push
+          fi
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
