@@ -130,3 +130,20 @@ main{width:100%;max-width:100%;margin:0}
  .hero:before{background:linear-gradient(90deg,rgba(249,240,225,.96) 0%,rgba(249,240,225,.84) 35%,rgba(249,240,225,.34) 58%,rgba(249,240,225,.04) 83%)}
  .hero-copy{width:55%;max-width:460px}
 }
+
+\n/* Live Security Update panel */
+.security-section{background:#f1eadf;max-width:none}
+.security-panel{max-width:950px;margin:0 auto;background:var(--paper);border:1px solid var(--line);padding:clamp(20px,4vw,36px);box-shadow:0 2px 12px #3a302018}
+.security-status-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.security-indicator{display:inline-flex;align-items:center;border-radius:30px;padding:6px 12px;font-size:.72rem;font-weight:700;letter-spacing:.04em}
+.security-indicator.clear{background:#e2eee2;color:#245a34}.security-indicator.alert{background:#f7e1df;color:#8a231b}.security-indicator.unavailable,.security-indicator.stale,.security-indicator.unknown{background:#f4e9cf;color:#73531c}
+.security-checked-at,.security-source-count,.security-disclaimer,.security-footnote{font-size:.75rem;color:var(--muted)}
+.security-panel h3{margin:18px 0 10px}.security-panel>p{font-size:.9rem}
+.security-alerts{display:grid;gap:10px;margin:15px 0}
+.security-alert{border-left:3px solid var(--burgundy);background:#f5ece4;padding:12px 14px;overflow-wrap:anywhere}
+.security-alert p{font-size:.82rem;margin:0 0 8px}.security-alert a{font-size:.75rem;font-weight:700;color:var(--green);text-underline-offset:3px}
+.security-alerts h4{font:600 1.2rem var(--serif);color:var(--burgundy);margin:4px 0}
+.security-footnote{margin-bottom:0}
+.bottom-nav{grid-template-columns:repeat(6,minmax(0,1fr))}
+.nav-link{font-size:.64rem}
+@media(max-width:390px){.nav-link{font-size:.54rem}.nav-icon{font-size:1.1rem}}
