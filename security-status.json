@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-10-28T14:09:16.980832+00:00",
-  "checked_at_local": "28 Oct 2026, 14:09 UTC",
+  "checked_at": "2026-10-28T17:00:22.429153+00:00",
+  "checked_at_local": "28 Oct 2026, 17:00 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-28T14:09:17.816347+00:00"
+      "checked_at": "2026-10-28T17:00:23.324496+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-28T14:09:19.257239+00:00"
+      "checked_at": "2026-10-28T17:00:25.070255+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-28T14:09:20.718132+00:00"
+      "checked_at": "2026-10-28T17:00:26.202953+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-28T14:09:22.008690+00:00"
+      "checked_at": "2026-10-28T17:00:27.711139+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -46,7 +46,7 @@
         "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
         "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-10-28T14:09:23.101925+00:00"
+      "checked_at": "2026-10-28T17:00:28.236581+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
@@ -55,7 +55,7 @@
       "hits": [
         "449 series 448 Series Go to “ Trains Regional services ” Go to “ Trains ” Accessibility Go back to the previous level Go to “ Accessibility ” ACCESSIBILITY STATEMENT Assistance service Accessibility plan Go to “ Accessibility ” News Go to “ About Rodalies ” About Rodalies Go to “ About Rodalies ” . Open in a new window. | Rodalies de Catalunya ... Strike called by the SEMAF train drivers' union on 29 October. Rodalies services will operate in accordance with the established minimum service levels. Check the train timetables in operation here: Timetables for 29 October Bus Turístic Combined ticket that includes the journey in train and the tic"
       ],
-      "checked_at": "2026-10-28T14:09:23.986037+00:00"
+      "checked_at": "2026-10-28T17:00:28.590452+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -63,7 +63,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-28T14:09:24.736479+00:00"
+      "checked_at": "2026-10-28T17:00:29.655576+00:00"
     },
     {
       "name": "Barcelona city news",
@@ -74,7 +74,7 @@
         "h and safety Feminism-women Mobility and transport Urban planning and infrastructures Cooperation and International Relations LGBTI Education and studies Participation Democratic Memory Teenagers and Youth Christmas 2025 Commerce and markets Financial support for shops and businesses affected by the riot of 24 October Half a million euros is being mobilised in financial support. 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Economy The Tomorrow. Blue Economy congress returns 27/10/2026 14:16 h Cementiris Cementiris de Barcelona boosts its services for ",
         "aints’ Day Offices will be open to the public from 8 am to 5 pm on 31 October and 1 November, with all sites to open from 8 am to 6 pm. TMB is laying on extra buses to the cemeteries in Montjuïc and Collserola. 28/10/2026 11:23 h Culture and leisure A 42 between contemporary fears and possible futures 23/10/2026 15:26 h Security and prevention The riot in the centre of Barcelona ends with 128 arrests 25/10/2026 12:11 h City Council Montserrat Roig Awards for Journalism and Social Communication in Barcelona 2025 given 26/10/2026 18:54 h Mobility and transport Green light for subsidies for the purchase of electric bikes 24/10/2026 12:23 h Housi"
       ],
-      "checked_at": "2026-10-28T14:09:25.137069+00:00"
+      "checked_at": "2026-10-28T17:00:30.524834+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -82,14 +82,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-28T14:09:25.437692+00:00"
+      "checked_at": "2026-10-28T17:00:31.072994+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-28T14:09:27.016456+00:00"
+      "checked_at": "2026-10-28T17:00:32.475234+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -97,14 +97,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-28T14:09:28.262970+00:00"
+      "checked_at": "2026-10-28T17:00:34.057392+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-28T14:09:28.539420+00:00"
+      "checked_at": "2026-10-28T17:00:34.702723+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -112,7 +112,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-10-28T14:09:46.814578+00:00"
+      "checked_at": "2026-10-28T17:00:53.012150+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -120,7 +120,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-28T14:09:46.872372+00:00"
+      "checked_at": "2026-10-28T17:00:53.172521+00:00"
     }
   ],
   "alerts": [
