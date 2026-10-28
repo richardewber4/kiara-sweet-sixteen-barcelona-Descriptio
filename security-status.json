@@ -1,0 +1,12 @@
+{
+  "title": "Live Security Update",
+  "status": "unavailable",
+  "headline": "Unable to verify current conditions.",
+  "action": "Check official transport and police advisories directly before travelling; do not treat this status as an all-clear.",
+  "checked_at": null,
+  "sources_ok": 0,
+  "sources_total": 11,
+  "sources": [],
+  "alerts": [],
+  "disclaimer": "The automated check has not completed yet. This is not an emergency alert service; follow official instructions."
+}
