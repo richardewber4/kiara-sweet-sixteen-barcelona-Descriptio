@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-10-30T04:57:43.842375+00:00",
-  "checked_at_local": "30 Oct 2026, 04:57 UTC",
+  "checked_at": "2026-10-30T08:11:19.422598+00:00",
+  "checked_at_local": "30 Oct 2026, 08:11 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -12,8 +12,11 @@
       "name": "TMB service notices",
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
-      "hits": [],
-      "checked_at": "2026-10-30T04:57:45.091359+00:00"
+      "hits": [
+        "sonal area My JoTMBé profile Do you want a Winning moment? You are in: Transport network Service notices Service notices We help you plan your journey with up-to-date information on disruptions to bus and metro services and recommended transport. Filter Type of notice All Announcement Novelty Fairs and congresses Parties Bus Metro Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 30/10/20",
+        "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 30/10/2026 to 01/11/2026 What's on? Any transport disruptions? All Saints' Day on public transport From 26/10/2026 to 02/11/2026 Recommended transport Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives The X1 bus line is growing! From 21/09/2026 Bus transport information"
+      ],
+      "checked_at": "2026-10-30T08:11:20.540915+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,32 +24,32 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-30T04:57:47.627044+00:00"
+      "checked_at": "2026-10-30T08:11:23.417935+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-30T04:57:48.996601+00:00"
+      "checked_at": "2026-10-30T08:11:25.419549+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-30T04:57:50.370925+00:00"
+      "checked_at": "2026-10-30T08:11:27.418510+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
       "ok": true,
       "hits": [
-        "Minimum services during the train drivers’ strike on 29 October gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains It all starts at home Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by theme. Back to \"Citizenship\" Access",
+        "Minimum services during the train drivers’ strike on 29 October gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains It all starts at home Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized b",
         "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
         "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-10-30T04:57:51.574231+00:00"
+      "checked_at": "2026-10-30T08:11:29.192197+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
@@ -55,7 +58,7 @@
       "hits": [
         "449 series 448 Series Go to “ Trains Regional services ” Go to “ Trains ” Accessibility Go back to the previous level Go to “ Accessibility ” ACCESSIBILITY STATEMENT Assistance service Accessibility plan Go to “ Accessibility ” News Go to “ About Rodalies ” About Rodalies Go to “ About Rodalies ” . Open in a new window. | Rodalies de Catalunya ... Strike called by the SEMAF train drivers' union on 29 October. Rodalies services will operate in accordance with the established minimum service levels. Check the train timetables in operation here: Timetables for 29 October Bus Turístic Combined ticket that includes the journey in train and the tic"
       ],
-      "checked_at": "2026-10-30T04:57:52.408269+00:00"
+      "checked_at": "2026-10-30T08:11:29.550501+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -63,7 +66,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-30T04:57:53.465448+00:00"
+      "checked_at": "2026-10-30T08:11:30.755756+00:00"
     },
     {
       "name": "Barcelona city news",
@@ -72,7 +75,7 @@
       "hits": [
         "nd 1 November, with all sites to open from 8 am to 6 pm. TMB is laying on extra buses to the cemeteries in Montjuïc and Collserola. 28/10/2026 11:23 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October 26/10/2026 15:01 h Culture and leisure The chestnut fest is here, autumn’s most eagerly awaited festival 20/10/2026 14:45 h Culture and leisure A 42 between contemporary fears and possible futures 23/10/2026 15:26 h Mobility and transport Green light for subsidies for the purchase"
       ],
-      "checked_at": "2026-10-30T04:57:54.508926+00:00"
+      "checked_at": "2026-10-30T08:11:32.075554+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -80,14 +83,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-30T04:57:54.848687+00:00"
+      "checked_at": "2026-10-30T08:11:32.638683+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-30T04:57:55.290853+00:00"
+      "checked_at": "2026-10-30T08:11:33.164000+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -95,14 +98,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-30T04:57:56.782078+00:00"
+      "checked_at": "2026-10-30T08:11:34.811863+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-10-30T04:57:57.781100+00:00"
+      "checked_at": "2026-10-30T08:11:36.108625+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -110,7 +113,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-10-30T04:58:15.886162+00:00"
+      "checked_at": "2026-10-30T08:11:54.333625+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -118,14 +121,24 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-10-30T04:58:15.989512+00:00"
+      "checked_at": "2026-10-30T08:11:54.540147+00:00"
     }
   ],
   "alerts": [
     {
+      "source": "TMB service notices",
+      "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
+      "snippet": "sonal area My JoTMBé profile Do you want a Winning moment? You are in: Transport network Service notices Service notices We help you plan your journey with up-to-date information on disruptions to bus and metro services and recommended transport. Filter Type of notice All Announcement Novelty Fairs and congresses Parties Bus Metro Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 30/10/20"
+    },
+    {
+      "source": "TMB service notices",
+      "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
+      "snippet": "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 30/10/2026 to 01/11/2026 What's on? Any transport disruptions? All Saints' Day on public transport From 26/10/2026 to 02/11/2026 Recommended transport Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives The X1 bus line is growing! From 21/09/2026 Bus transport information"
+    },
+    {
       "source": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
-      "snippet": "Minimum services during the train drivers’ strike on 29 October gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains It all starts at home Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by theme. Back to \"Citizenship\" Access"
+      "snippet": "Minimum services during the train drivers’ strike on 29 October gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains It all starts at home Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized b"
     },
     {
       "source": "Generalitat verified train strike notice, 29 Oct",
