@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-02T11:09:42.878328+00:00",
-  "checked_at_local": "02 Nov 2026, 11:09 UTC",
+  "checked_at": "2026-11-02T14:26:45.672803+00:00",
+  "checked_at_local": "02 Nov 2026, 14:26 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:44.145808+00:00"
+      "checked_at": "2026-11-02T14:26:46.740525+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-02T11:09:47.375471+00:00"
+      "checked_at": "2026-11-02T14:26:49.490716+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:48.800703+00:00"
+      "checked_at": "2026-11-02T14:26:51.400533+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:50.141189+00:00"
+      "checked_at": "2026-11-02T14:26:52.899991+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -46,14 +46,14 @@
         "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
         "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-11-02T11:09:51.862385+00:00"
+      "checked_at": "2026-11-02T14:26:54.598788+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:52.273386+00:00"
+      "checked_at": "2026-11-02T14:26:55.078218+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -61,7 +61,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-02T11:09:53.059568+00:00"
+      "checked_at": "2026-11-02T14:26:56.638538+00:00"
     },
     {
       "name": "Barcelona city news",
@@ -70,7 +70,7 @@
       "hits": [
         "ts, talent and collaboration to address urban challenges. Its stand will feature a blend of innovative initiatives, spaces for debate and knowledge exchange. 27/10/2026 14:11 h Mobility and transport L2 metro service suspended between La Pau and Gorg 29/10/2026 14:02 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip The goal is to ensure that Palestinian children can continue exercising their right to education during the conflict. 27/10/2026 12:21 h Feminism-women Grief and "
       ],
-      "checked_at": "2026-11-02T11:09:53.968334+00:00"
+      "checked_at": "2026-11-02T14:26:57.036032+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -78,14 +78,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-02T11:09:57.102522+00:00"
+      "checked_at": "2026-11-02T14:26:57.388020+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:57.419980+00:00"
+      "checked_at": "2026-11-02T14:26:57.840301+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -93,14 +93,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-02T11:09:59.156800+00:00"
+      "checked_at": "2026-11-02T14:26:59.823321+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-02T11:09:59.572438+00:00"
+      "checked_at": "2026-11-02T14:27:00.893957+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -108,7 +108,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-02T11:10:17.865035+00:00"
+      "checked_at": "2026-11-02T14:27:18.955168+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -116,7 +116,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-02T11:10:18.070919+00:00"
+      "checked_at": "2026-11-02T14:27:19.041213+00:00"
     }
   ],
   "alerts": [
