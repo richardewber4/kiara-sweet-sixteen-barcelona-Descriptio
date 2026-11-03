@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-03T05:04:33.979475+00:00",
-  "checked_at_local": "03 Nov 2026, 05:04 UTC",
+  "checked_at": "2026-11-03T08:24:56.801074+00:00",
+  "checked_at_local": "03 Nov 2026, 08:24 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:34.967765+00:00"
+      "checked_at": "2026-11-03T08:24:58.623972+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-03T05:04:36.840300+00:00"
+      "checked_at": "2026-11-03T08:25:00.880519+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:38.068279+00:00"
+      "checked_at": "2026-11-03T08:25:02.451917+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:39.294154+00:00"
+      "checked_at": "2026-11-03T08:25:03.869338+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -46,14 +46,14 @@
         "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
         "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-11-03T05:04:40.253813+00:00"
+      "checked_at": "2026-11-03T08:25:05.478835+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:41.327213+00:00"
+      "checked_at": "2026-11-03T08:25:05.962754+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -61,17 +61,16 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-03T05:04:42.053341+00:00"
+      "checked_at": "2026-11-03T08:25:07.345402+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [
-        "spaces for debate and knowledge exchange. 27/10/2026 14:11 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects 02/11/2026 12:26 h Mobility and transport L2 metro service suspended between La Pau and Gorg 29/10/2026 14:02 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October Half a million euros is being mobilised in financial support. 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Bar",
-        "026 14:11 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects 02/11/2026 12:26 h Mobility and transport L2 metro service suspended between La Pau and Gorg 29/10/2026 14:02 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October Half a million euros is being mobilised in financial support. 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Barris 29/10/2026 15:31 h City Council Barcelona Cit"
+        "Pau and Gorg 29/10/2026 14:02 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects A mixed commission is set up between the two municipalities to address the major transformation in their adjacent areas. 02/11/2026 12:26 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Barris 29/10/2026 15:31 h City Council Barcelona City Council join"
       ],
-      "checked_at": "2026-11-03T05:04:43.038300+00:00"
+      "checked_at": "2026-11-03T08:25:08.217479+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -79,29 +78,29 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-03T05:04:43.469038+00:00"
+      "checked_at": "2026-11-03T08:25:08.734018+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:44.047415+00:00"
+      "checked_at": "2026-11-03T08:25:10.468045+00:00"
     },
     {
       "name": "Barcelona tourism safety",
       "url": "https://www.barcelonaturisme.com/wv3/en/page/37/safety.html",
       "ok": false,
       "hits": [],
-      "error": "URLError",
-      "checked_at": "2026-11-03T05:04:44.568700+00:00"
+      "error": "HTTPError",
+      "checked_at": "2026-11-03T08:25:12.350643+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-03T05:04:45.652160+00:00"
+      "checked_at": "2026-11-03T08:25:13.564553+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -109,7 +108,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-03T05:05:03.905254+00:00"
+      "checked_at": "2026-11-03T08:25:31.759861+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -117,7 +116,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-03T05:05:04.007489+00:00"
+      "checked_at": "2026-11-03T08:25:31.949456+00:00"
     }
   ],
   "alerts": [
@@ -139,12 +138,7 @@
     {
       "source": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
-      "snippet": "spaces for debate and knowledge exchange. 27/10/2026 14:11 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects 02/11/2026 12:26 h Mobility and transport L2 metro service suspended between La Pau and Gorg 29/10/2026 14:02 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October Half a million euros is being mobilised in financial support. 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Bar"
-    },
-    {
-      "source": "Barcelona city news",
-      "url": "https://www.barcelona.cat/infobarcelona/en/",
-      "snippet": "026 14:11 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects 02/11/2026 12:26 h Mobility and transport L2 metro service suspended between La Pau and Gorg 29/10/2026 14:02 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October Half a million euros is being mobilised in financial support. 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Barris 29/10/2026 15:31 h City Council Barcelona Cit"
+      "snippet": "Pau and Gorg 29/10/2026 14:02 h Urban transformations Agreement with Esplugues Town Council to collaborate on two joint projects A mixed commission is set up between the two municipalities to address the major transformation in their adjacent areas. 02/11/2026 12:26 h Commerce and markets Financial support for shops and businesses affected by the riot of 24 October 26/10/2026 15:01 h Cooperation and International Relations Subsidy to guarantee children’s education in the Gaza Strip 27/10/2026 12:21 h Feminism-women Grief and rejection at the femicide of a woman resident in Nou Barris 29/10/2026 15:31 h City Council Barcelona City Council join"
     }
   ],
   "disclaimer": "Automated page scanning can miss new or poorly indexed reports. This is not an emergency alert service; follow official instructions."
