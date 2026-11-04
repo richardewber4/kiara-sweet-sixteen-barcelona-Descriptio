@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-04T02:08:55.953381+00:00",
-  "checked_at_local": "04 Nov 2026, 02:08 UTC",
+  "checked_at": "2026-11-04T05:08:53.126567+00:00",
+  "checked_at_local": "04 Nov 2026, 05:08 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:08:58.333425+00:00"
+      "checked_at": "2026-11-04T05:08:53.997322+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-04T02:09:00.722518+00:00"
+      "checked_at": "2026-11-04T05:08:55.986568+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:02.209030+00:00"
+      "checked_at": "2026-11-04T05:08:57.251951+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:03.701758+00:00"
+      "checked_at": "2026-11-04T05:08:58.270793+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -46,14 +46,14 @@
         "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
         "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-11-04T02:09:05.088006+00:00"
+      "checked_at": "2026-11-04T05:08:59.587027+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:05.922162+00:00"
+      "checked_at": "2026-11-04T05:09:00.671313+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -61,14 +61,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-04T02:09:06.992114+00:00"
+      "checked_at": "2026-11-04T05:09:01.505020+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:07.719027+00:00"
+      "checked_at": "2026-11-04T05:09:02.320124+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -76,14 +76,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-04T02:09:08.011470+00:00"
+      "checked_at": "2026-11-04T05:09:02.784160+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:08.300853+00:00"
+      "checked_at": "2026-11-04T05:09:03.541393+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -91,14 +91,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-04T02:09:10.107352+00:00"
+      "checked_at": "2026-11-04T05:09:04.965158+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-04T02:09:11.047867+00:00"
+      "checked_at": "2026-11-04T05:09:05.790212+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -106,7 +106,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-04T02:09:29.236622+00:00"
+      "checked_at": "2026-11-04T05:09:23.835230+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -114,7 +114,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-04T02:09:29.311419+00:00"
+      "checked_at": "2026-11-04T05:09:23.886207+00:00"
     }
   ],
   "alerts": [
