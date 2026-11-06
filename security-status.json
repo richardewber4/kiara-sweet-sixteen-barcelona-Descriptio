@@ -3,9 +3,9 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-06T02:27:42.803086+00:00",
-  "checked_at_local": "06 Nov 2026, 02:27 UTC",
-  "sources_ok": 8,
+  "checked_at": "2026-11-06T12:08:22.185357+00:00",
+  "checked_at_local": "06 Nov 2026, 12:08 UTC",
+  "sources_ok": 6,
   "sources_total": 14,
   "sources": [
     {
@@ -15,47 +15,49 @@
       "hits": [
         "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 06/11/2026 to 08/11/2026 What's on? Any transport disruptions? Vueling Bombers Race 08/11/2026 Disruptions to bus service and recommended transport Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transpor"
       ],
-      "checked_at": "2026-11-06T02:27:44.115095+00:00"
+      "checked_at": "2026-11-06T12:08:23.290465+00:00"
     },
     {
       "name": "AMB mobility notices",
       "url": "https://www.ambmobilitat.cat/",
       "ok": false,
       "hits": [],
-      "error": "HTTPError",
-      "checked_at": "2026-11-06T02:27:47.315878+00:00"
+      "error": "URLError",
+      "checked_at": "2026-11-06T12:08:24.023910+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
-      "ok": true,
+      "ok": false,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:48.792303+00:00"
+      "error": "URLError",
+      "checked_at": "2026-11-06T12:08:24.349866+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
-      "ok": true,
+      "ok": false,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:50.800347+00:00"
+      "error": "URLError",
+      "checked_at": "2026-11-06T12:08:24.833933+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
       "ok": true,
       "hits": [
-        "Minimum services during the train drivers’ strike on 29 October Skip to main content gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by",
-        "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats",
-        "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
+        "Minimum services during the train drivers’ strike on 29 October Skip to main content gencat.cat We assist you en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by theme",
+        "igital services Catalogue of identification and electronic signature systems We assist you Language: en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied What",
+        "ture systems We assist you Language: en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
       ],
-      "checked_at": "2026-11-06T02:27:52.428900+00:00"
+      "checked_at": "2026-11-06T12:08:26.449140+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:53.413361+00:00"
+      "checked_at": "2026-11-06T12:08:27.522330+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -63,14 +65,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-06T02:27:53.762374+00:00"
+      "checked_at": "2026-11-06T12:08:28.269381+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:55.554614+00:00"
+      "checked_at": "2026-11-06T12:08:29.436237+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -78,14 +80,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-06T02:27:56.036839+00:00"
+      "checked_at": "2026-11-06T12:08:29.785449+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:56.735698+00:00"
+      "checked_at": "2026-11-06T12:08:30.381801+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -93,14 +95,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-06T02:27:58.546151+00:00"
+      "checked_at": "2026-11-06T12:08:32.388998+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-06T02:27:59.032632+00:00"
+      "checked_at": "2026-11-06T12:08:32.909995+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -108,7 +110,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-06T02:28:17.077677+00:00"
+      "checked_at": "2026-11-06T12:08:51.165827+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -116,7 +118,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-06T02:28:17.157201+00:00"
+      "checked_at": "2026-11-06T12:08:51.219670+00:00"
     }
   ],
   "alerts": [
@@ -128,17 +130,17 @@
     {
       "source": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
-      "snippet": "Minimum services during the train drivers’ strike on 29 October Skip to main content gencat.cat We assist you ca es en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by"
+      "snippet": "Minimum services during the train drivers’ strike on 29 October Skip to main content gencat.cat We assist you en (AI-translated page) gencat.cat Search Private area gencat.cat gencat.cat gencat.cat Back to \"\" Access to \"\" Home Home Back to \"Home\" Access to \"Home\" News News To keep up to date with all the news of the Generalitat: news, reports, newsletters, social networks, etc. Back to \"News\" Access to \"News\" Latest news Mental health At your service Floods and heavy rains Postal voting and voting from abroad Citizenship Citizenship Useful information, outstanding services and procedures, facilities and service offices. All organized by theme"
     },
     {
       "source": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
-      "snippet": "services Catalogue of identification and electronic signature systems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied Whats"
+      "snippet": "igital services Catalogue of identification and electronic signature systems We assist you Language: en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied What"
     },
     {
       "source": "Generalitat verified train strike notice, 29 Oct",
       "url": "https://web.gencat.cat/en/inici/actualitat/noticies/2026/10/serveis-minims-vaga-de-maquinistes-29-octubre",
-      "snippet": "ystems We assist you Language: ca es en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
+      "snippet": "ture systems We assist you Language: en (AI-translated page) Search How to search? How to search? Ask questions or describe your query Do not enter personal data The answer is sought in a set of gencat.cat websites Find out more Search … News Minimum services during the train drivers’ strike on 29 October Minimum services during the train drivers’ strike on 29 October The strike is affecting Rodalies and Regional train services throughout the day, with 66% of services operating during peak hours and 33% during the rest of the day 26/10/2026 · 16:19 Share Copy the link Copied WhatsApp X (Twitter) Facebook LinkedIn Mail Mobility and transport W"
     }
   ],
   "disclaimer": "Automated page scanning can miss new or poorly indexed reports. This is not an emergency alert service; follow official instructions."
