@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-08T22:54:30.127447+00:00",
-  "checked_at_local": "08 Nov 2026, 22:54 UTC",
+  "checked_at": "2026-11-09T07:59:12.556241+00:00",
+  "checked_at_local": "09 Nov 2026, 07:59 UTC",
   "sources_ok": 5,
   "sources_total": 14,
   "sources": [
@@ -13,9 +13,9 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [
-        "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 06/11/2026 to 08/11/2026 What's on? Any transport disruptions? Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transportation impacts and recom... Palau Sant Jordi and Sant Jordi Club concerts Recommended"
+        "l 3 December inclusive, no service between La Pau and Gorg You are in: Transport network Service notices Service notices We help you plan your journey with up-to-date information on disruptions to bus and metro services and recommended transport. Filter Type of notice All Announcement Novelty Fairs and congresses Parties Bus Metro Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See Metro line L2: Out of service between La Pa"
       ],
-      "checked_at": "2026-11-08T22:54:31.399304+00:00"
+      "checked_at": "2026-11-09T07:59:13.805518+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -23,7 +23,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-08T22:54:32.609409+00:00"
+      "checked_at": "2026-11-09T07:59:14.428233+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
@@ -31,7 +31,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-08T22:54:33.093325+00:00"
+      "checked_at": "2026-11-09T07:59:15.501652+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
@@ -39,7 +39,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-08T22:54:33.412044+00:00"
+      "checked_at": "2026-11-09T07:59:15.856171+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -47,14 +47,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-08T22:54:33.673279+00:00"
+      "checked_at": "2026-11-09T07:59:16.523553+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-08T22:54:33.854600+00:00"
+      "checked_at": "2026-11-09T07:59:17.875977+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -62,14 +62,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-08T22:54:34.509026+00:00"
+      "checked_at": "2026-11-09T07:59:19.147231+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-08T22:54:35.268704+00:00"
+      "checked_at": "2026-11-09T07:59:20.473539+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -77,14 +77,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-08T22:54:35.841827+00:00"
+      "checked_at": "2026-11-09T07:59:20.839064+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-08T22:54:36.240390+00:00"
+      "checked_at": "2026-11-09T07:59:21.179056+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -92,14 +92,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-08T22:54:38.119302+00:00"
+      "checked_at": "2026-11-09T07:59:23.192066+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-08T22:54:38.610469+00:00"
+      "checked_at": "2026-11-09T07:59:24.235858+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -107,7 +107,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-08T22:54:56.828640+00:00"
+      "checked_at": "2026-11-09T07:59:42.493824+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -115,14 +115,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-08T22:54:56.907583+00:00"
+      "checked_at": "2026-11-09T07:59:42.589204+00:00"
     }
   ],
   "alerts": [
     {
       "source": "TMB service notices",
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
-      "snippet": "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 06/11/2026 to 08/11/2026 What's on? Any transport disruptions? Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transportation impacts and recom... Palau Sant Jordi and Sant Jordi Club concerts Recommended"
+      "snippet": "l 3 December inclusive, no service between La Pau and Gorg You are in: Transport network Service notices Service notices We help you plan your journey with up-to-date information on disruptions to bus and metro services and recommended transport. Filter Type of notice All Announcement Novelty Fairs and congresses Parties Bus Metro Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See Metro line L2: Out of service between La Pa"
     }
   ],
   "disclaimer": "Automated page scanning can miss new or poorly indexed reports. This is not an emergency alert service; follow official instructions."
