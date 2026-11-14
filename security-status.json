@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-14T18:44:49.544601+00:00",
-  "checked_at_local": "14 Nov 2026, 18:44 UTC",
+  "checked_at": "2026-11-14T22:59:15.587117+00:00",
+  "checked_at_local": "14 Nov 2026, 22:59 UTC",
   "sources_ok": 5,
   "sources_total": 14,
   "sources": [
@@ -15,7 +15,7 @@
       "hits": [
         "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 13/11/2026 to 15/11/2026 What's on? Any transport disruptions? Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives Sant Martí Popular Race 15/11/2026 Disruptions to bus service and r... L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transportation impacts"
       ],
-      "checked_at": "2026-11-14T18:44:50.756286+00:00"
+      "checked_at": "2026-11-14T22:59:16.625005+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -23,7 +23,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-14T18:44:51.262128+00:00"
+      "checked_at": "2026-11-14T22:59:18.129038+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
@@ -31,7 +31,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-14T18:44:51.582429+00:00"
+      "checked_at": "2026-11-14T22:59:18.983742+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
@@ -39,7 +39,7 @@
       "ok": false,
       "hits": [],
       "error": "URLError",
-      "checked_at": "2026-11-14T18:44:51.906210+00:00"
+      "checked_at": "2026-11-14T22:59:19.374573+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -47,14 +47,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T18:44:52.735046+00:00"
+      "checked_at": "2026-11-14T22:59:19.904425+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T18:44:53.765807+00:00"
+      "checked_at": "2026-11-14T22:59:21.263899+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -62,14 +62,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T18:44:54.988126+00:00"
+      "checked_at": "2026-11-14T22:59:22.068710+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T18:44:56.294720+00:00"
+      "checked_at": "2026-11-14T22:59:23.026762+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -77,14 +77,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T18:44:56.626277+00:00"
+      "checked_at": "2026-11-14T22:59:23.831775+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T18:44:57.964118+00:00"
+      "checked_at": "2026-11-14T22:59:24.323249+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -92,14 +92,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T18:45:00.024536+00:00"
+      "checked_at": "2026-11-14T22:59:26.009915+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T18:45:00.479222+00:00"
+      "checked_at": "2026-11-14T22:59:26.354743+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -107,7 +107,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-14T18:45:18.516756+00:00"
+      "checked_at": "2026-11-14T22:59:44.464182+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -115,7 +115,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T18:45:18.554476+00:00"
+      "checked_at": "2026-11-14T22:59:44.559402+00:00"
     }
   ],
   "alerts": [
