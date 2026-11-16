@@ -3,43 +3,39 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-14T22:59:15.587117+00:00",
-  "checked_at_local": "14 Nov 2026, 22:59 UTC",
-  "sources_ok": 5,
+  "checked_at": "2026-11-16T20:30:03.070028+00:00",
+  "checked_at_local": "16 Nov 2026, 20:30 UTC",
+  "sources_ok": 7,
   "sources_total": 14,
   "sources": [
     {
       "name": "TMB service notices",
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
-      "hits": [
-        "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 13/11/2026 to 15/11/2026 What's on? Any transport disruptions? Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives Sant Martí Popular Race 15/11/2026 Disruptions to bus service and r... L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transportation impacts"
-      ],
-      "checked_at": "2026-11-14T22:59:16.625005+00:00"
+      "hits": [],
+      "checked_at": "2026-11-16T20:30:04.110158+00:00"
     },
     {
       "name": "AMB mobility notices",
       "url": "https://www.ambmobilitat.cat/",
       "ok": false,
       "hits": [],
-      "error": "URLError",
-      "checked_at": "2026-11-14T22:59:18.129038+00:00"
+      "error": "HTTPError",
+      "checked_at": "2026-11-16T20:30:06.348231+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
-      "ok": false,
+      "ok": true,
       "hits": [],
-      "error": "URLError",
-      "checked_at": "2026-11-14T22:59:18.983742+00:00"
+      "checked_at": "2026-11-16T20:30:07.507215+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
-      "ok": false,
+      "ok": true,
       "hits": [],
-      "error": "URLError",
-      "checked_at": "2026-11-14T22:59:19.374573+00:00"
+      "checked_at": "2026-11-16T20:30:09.340198+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -47,14 +43,16 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T22:59:19.904425+00:00"
+      "checked_at": "2026-11-16T20:30:09.765782+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
-      "hits": [],
-      "checked_at": "2026-11-14T22:59:21.263899+00:00"
+      "hits": [
+        "449 series 448 Series Go to “ Trains Regional services ” Go to “ Trains ” Accessibility Go back to the previous level Go to “ Accessibility ” ACCESSIBILITY STATEMENT Assistance service Accessibility plan Go to “ Accessibility ” News Go to “ About Rodalies ” About Rodalies Go to “ About Rodalies ” . Open in a new window. | Rodalies de Catalunya ... Strike action called by the SEMAF train drivers' union today, 10 November. Rodalies services will operate in accordance with the established minimum service levels. Check the train timetables in operation here: Timetables for 10 November Bus Turístic Combined ticket that includes the journey in trai"
+      ],
+      "checked_at": "2026-11-16T20:30:10.926484+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -62,14 +60,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T22:59:22.068710+00:00"
+      "checked_at": "2026-11-16T20:30:11.538909+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T22:59:23.026762+00:00"
+      "checked_at": "2026-11-16T20:30:12.445143+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -77,14 +75,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T22:59:23.831775+00:00"
+      "checked_at": "2026-11-16T20:30:12.835985+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T22:59:24.323249+00:00"
+      "checked_at": "2026-11-16T20:30:13.189556+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -92,14 +90,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T22:59:26.009915+00:00"
+      "checked_at": "2026-11-16T20:30:14.936214+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-14T22:59:26.354743+00:00"
+      "checked_at": "2026-11-16T20:30:15.893920+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -107,7 +105,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-14T22:59:44.464182+00:00"
+      "checked_at": "2026-11-16T20:30:34.137848+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -115,14 +113,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-14T22:59:44.559402+00:00"
+      "checked_at": "2026-11-16T20:30:34.228449+00:00"
     }
   ],
   "alerts": [
     {
-      "source": "TMB service notices",
-      "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
-      "snippet": "Concert Football Disturbance Others Date Bus route – Metro line Enter the bus line with the letter, if it has one, and the number; for example, D20, 6, 127. And the metro line, with L, the line number and, if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 13/11/2026 to 15/11/2026 What's on? Any transport disruptions? Metro line L2: Out of service between La Pau - Gorg From 02/11/2026 to 03/12/2026 Disruptions and transport alternatives Sant Martí Popular Race 15/11/2026 Disruptions to bus service and r... L1–L5 transfer closed at Plaça de Sants station From 27/04/2026 Transportation impacts"
+      "source": "Rodalies de Catalunya",
+      "url": "https://rodalies.gencat.cat/en/inici/index.html",
+      "snippet": "449 series 448 Series Go to “ Trains Regional services ” Go to “ Trains ” Accessibility Go back to the previous level Go to “ Accessibility ” ACCESSIBILITY STATEMENT Assistance service Accessibility plan Go to “ Accessibility ” News Go to “ About Rodalies ” About Rodalies Go to “ About Rodalies ” . Open in a new window. | Rodalies de Catalunya ... Strike action called by the SEMAF train drivers' union today, 10 November. Rodalies services will operate in accordance with the established minimum service levels. Check the train timetables in operation here: Timetables for 10 November Bus Turístic Combined ticket that includes the journey in trai"
     }
   ],
   "disclaimer": "Automated page scanning can miss new or poorly indexed reports. This is not an emergency alert service; follow official instructions."
