@@ -3,8 +3,8 @@
   "status": "alert",
   "headline": "Verified source reports a potentially relevant disruption.",
   "action": "Open the cited official notice and check the affected route before travelling; avoid any active demonstration or police cordon.",
-  "checked_at": "2026-11-16T20:30:03.070028+00:00",
-  "checked_at_local": "16 Nov 2026, 20:30 UTC",
+  "checked_at": "2026-11-17T04:29:37.414117+00:00",
+  "checked_at_local": "17 Nov 2026, 04:29 UTC",
   "sources_ok": 7,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:04.110158+00:00"
+      "checked_at": "2026-11-17T04:29:38.534551+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:06.348231+00:00"
+      "checked_at": "2026-11-17T04:29:41.618951+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:07.507215+00:00"
+      "checked_at": "2026-11-17T04:29:43.064797+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:09.340198+00:00"
+      "checked_at": "2026-11-17T04:29:44.539824+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -43,7 +43,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:09.765782+00:00"
+      "checked_at": "2026-11-17T04:29:44.918830+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
@@ -52,7 +52,7 @@
       "hits": [
         "449 series 448 Series Go to “ Trains Regional services ” Go to “ Trains ” Accessibility Go back to the previous level Go to “ Accessibility ” ACCESSIBILITY STATEMENT Assistance service Accessibility plan Go to “ Accessibility ” News Go to “ About Rodalies ” About Rodalies Go to “ About Rodalies ” . Open in a new window. | Rodalies de Catalunya ... Strike action called by the SEMAF train drivers' union today, 10 November. Rodalies services will operate in accordance with the established minimum service levels. Check the train timetables in operation here: Timetables for 10 November Bus Turístic Combined ticket that includes the journey in trai"
       ],
-      "checked_at": "2026-11-16T20:30:10.926484+00:00"
+      "checked_at": "2026-11-17T04:29:45.243250+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -60,14 +60,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:11.538909+00:00"
+      "checked_at": "2026-11-17T04:29:45.868505+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:12.445143+00:00"
+      "checked_at": "2026-11-17T04:29:46.590053+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -75,14 +75,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:12.835985+00:00"
+      "checked_at": "2026-11-17T04:29:47.234447+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:13.189556+00:00"
+      "checked_at": "2026-11-17T04:29:48.481250+00:00"
     },
     {
       "name": "Barcelona tourism safety",
@@ -90,14 +90,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:14.936214+00:00"
+      "checked_at": "2026-11-17T04:29:49.847438+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-16T20:30:15.893920+00:00"
+      "checked_at": "2026-11-17T04:29:50.277185+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -105,7 +105,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-16T20:30:34.137848+00:00"
+      "checked_at": "2026-11-17T04:30:08.534492+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -113,7 +113,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-16T20:30:34.228449+00:00"
+      "checked_at": "2026-11-17T04:30:08.565282+00:00"
     }
   ],
   "alerts": [
