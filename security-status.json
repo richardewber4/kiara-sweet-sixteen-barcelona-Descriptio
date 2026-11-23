@@ -3,8 +3,8 @@
   "status": "clear",
   "headline": "No verified disruptions. Proceed with optimistic caution.",
   "action": "Avoid demonstrations and follow police instructions. Check local transport notices before each major journey.",
-  "checked_at": "2026-11-22T20:22:21.836722+00:00",
-  "checked_at_local": "22 Nov 2026, 20:22 UTC",
+  "checked_at": "2026-11-23T02:46:13.901078+00:00",
+  "checked_at_local": "23 Nov 2026, 02:46 UTC",
   "sources_ok": 8,
   "sources_total": 14,
   "sources": [
@@ -13,7 +13,7 @@
       "url": "https://www.tmb.cat/en/barcelona-transport/service-notices",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:22.896054+00:00"
+      "checked_at": "2026-11-23T02:46:14.654354+00:00"
     },
     {
       "name": "AMB mobility notices",
@@ -21,21 +21,21 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-22T20:22:24.235221+00:00"
+      "checked_at": "2026-11-23T02:46:16.876040+00:00"
     },
     {
       "name": "AMB verified diversion: Diagonal / Travessera de les Corts, 28 Oct",
       "url": "https://www.ambmobilitat.cat/principales/Noticia.aspx?incidencia=28416",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:25.908724+00:00"
+      "checked_at": "2026-11-23T02:46:18.411765+00:00"
     },
     {
       "name": "AMB verified diversion: Plaça Drassanes, 28 Oct",
       "url": "https://www.ambmobilitat.cat/Principales/Noticia.aspx?incidencia=28415",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:27.680146+00:00"
+      "checked_at": "2026-11-23T02:46:19.965885+00:00"
     },
     {
       "name": "Generalitat verified train strike notice, 29 Oct",
@@ -43,14 +43,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-22T20:22:28.318554+00:00"
+      "checked_at": "2026-11-23T02:46:20.616688+00:00"
     },
     {
       "name": "Rodalies de Catalunya",
       "url": "https://rodalies.gencat.cat/en/inici/index.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:28.830938+00:00"
+      "checked_at": "2026-11-23T02:46:21.816380+00:00"
     },
     {
       "name": "Generalitat de Catalunya news",
@@ -58,14 +58,14 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-22T20:22:30.095363+00:00"
+      "checked_at": "2026-11-23T02:46:22.658344+00:00"
     },
     {
       "name": "Barcelona city news",
       "url": "https://www.barcelona.cat/infobarcelona/en/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:31.099903+00:00"
+      "checked_at": "2026-11-23T02:46:23.511119+00:00"
     },
     {
       "name": "Mossos d'Esquadra press room",
@@ -73,28 +73,28 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-22T20:22:31.526709+00:00"
+      "checked_at": "2026-11-23T02:46:24.082443+00:00"
     },
     {
       "name": "Catalan Civil Protection",
       "url": "https://interior.gencat.cat/ca/arees_dactuacio/proteccio_civil/",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:32.139968+00:00"
+      "checked_at": "2026-11-23T02:46:25.209842+00:00"
     },
     {
       "name": "Barcelona tourism safety",
       "url": "https://www.barcelonaturisme.com/wv3/en/page/37/safety.html",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:34.365064+00:00"
+      "checked_at": "2026-11-23T02:46:26.360881+00:00"
     },
     {
       "name": "UK FCDO Spain safety advice",
       "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
       "ok": true,
       "hits": [],
-      "checked_at": "2026-11-22T20:22:34.659017+00:00"
+      "checked_at": "2026-11-23T02:46:26.655553+00:00"
     },
     {
       "name": "Australia Smartraveller Spain",
@@ -102,7 +102,7 @@
       "ok": false,
       "hits": [],
       "error": "TimeoutError",
-      "checked_at": "2026-11-22T20:22:52.784588+00:00"
+      "checked_at": "2026-11-23T02:46:44.897292+00:00"
     },
     {
       "name": "US State Department Spain advisory",
@@ -110,7 +110,7 @@
       "ok": false,
       "hits": [],
       "error": "HTTPError",
-      "checked_at": "2026-11-22T20:22:52.890458+00:00"
+      "checked_at": "2026-11-23T02:46:44.951267+00:00"
     }
   ],
   "alerts": [],
